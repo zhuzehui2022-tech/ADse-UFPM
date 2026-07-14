@@ -1,0 +1,2 @@
+﻿site_id,warning_level,score,final_Ce,final_invasive,final_canopy,final_conflict_rate,flag_ce_declining,flag_variance_rising,flag_autocorr_high,flag_invasive_persistent,flag_conflict_rising,flag_ce_below_fail,flag_canopy_collapse
+Guangzhou_NISF,warning,3,0.7634,0.4658,0.0711,1.0,0,0,0,1,1,0,1
