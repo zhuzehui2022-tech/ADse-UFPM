@@ -1,0 +1,2 @@
+﻿site_id,warning_level,score,final_Ce,final_invasive,final_canopy,final_conflict_rate,flag_ce_declining,flag_variance_rising,flag_autocorr_high,flag_invasive_persistent,flag_conflict_rising,flag_ce_below_fail,flag_canopy_collapse
+Beijing_NSF,stable,0,0.8039,0.3906,0.5271,0.43,0,0,0,0,0,0,0
